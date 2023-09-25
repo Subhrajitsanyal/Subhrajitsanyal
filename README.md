@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/subhrasany10" target="blank"><img src="https://img.shields.io/twitter/follow/subhrasany10?logo=twitter&style=for-the-badge" alt="subhrasany10" /></a> </p>
 
-- 🔭 I’m currently working on **anime website**
+- 🔭 I’m currently working on **animestreaming website**
 
 - 🌱 I’m currently learning **ReactJS,Laravel,courses-DSA supreme 2.0**
 
@@ -30,7 +30,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subhrajitsanyal&show_icons=true&locale=en&layout=compact" alt="subhrajitsanyal" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=subhrajitsanyal&show_icons=true&locale=en" alt="subhrajitsanyal" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subhrajitsanyal&" alt="subhrajitsanyal" /></p>
 
