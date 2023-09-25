@@ -1,6 +1,6 @@
 ![logo](https://user-images.githubusercontent.com/74038190/243078834-72903324-cf57-4e90-80a6-ed3c9734e0ed.gif)
 <h1 align="center">Hi 👋, I'm Subhrajit Sanyal</h1>
-<h3 align="center">A passionate programmer from India</h3>
+<h3 align="center">A passionate programmer from Kolkata , India</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
 
