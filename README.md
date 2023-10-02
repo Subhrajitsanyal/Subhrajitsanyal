@@ -4,19 +4,17 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=subhrajitsanyal&label=Profile%20views&color=0e75b6&style=flat" alt="subhrajitsanyal" /> </p>
 
-<p align="left"> <a href="https://twitter.com/SubhrajitSany10" target="blank"><img src="https://img.shields.io/twitter/follow/SubhrajitSany10?logo=twitter&style=for-the-badge" alt="SubhrajitSany10" /></a> </p>
 
 - 🔭 I’m currently working on **animestreaming website**
 
-- 🌱 I’m currently learning **ReactJS,Laravel,courses-DSA supreme 2.0**
+- 🌱 I’m currently learning **ReactJS,MERN,DSA **
 
-- 💬 Ask me about **C,C++,python**
+- 💬 Ask me about **C++,JavaScript**
 
 - 📫 How to reach me **subhrajitsanyal02@gmail.com**
 
-- ⚡ Fun fact **i like toi play video games a lot,and i'm looking to build one too**
+- ⚡ Fun fact **i like to play video games ,and i'm looking to build one too**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
