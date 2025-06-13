@@ -6,7 +6,7 @@
 
 
 
-- 🔭 I’m currently working on Refokus Clone 
+- 🔭 I’m currently working on Movie Showcase APP
 
 - 🌱 I’m currently learning **ReactJS,MERN,DSA **
 
